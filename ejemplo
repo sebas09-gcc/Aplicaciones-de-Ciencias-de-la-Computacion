@@ -1,0 +1,13 @@
+def calcularPotencia(x){
+prod=1;	
+return prod;
+}
+def calcularOtra(x){
+mult=4;	
+return mult;
+}
+def main(){ 
+        printf(x);
+        p=calcularOtra(x);
+}
+
