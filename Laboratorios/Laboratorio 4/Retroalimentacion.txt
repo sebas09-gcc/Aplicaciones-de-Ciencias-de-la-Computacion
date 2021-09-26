@@ -1,0 +1,7 @@
+Retroalimentación:
+1-Bien
+2-No encontró una respuesta óptima (la reina en h3 y la reina d7 se atacan), aunque el resto de la explicación es válida
+3-Correcto
+4-No explica exactamente de forma teórica cómo se regula la exploración en SA
+5-Correcto
+6-Correcto
